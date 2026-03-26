@@ -1,7 +1,7 @@
 # Aaron Cottrell
 
 Head of Product at [Validation Cloud](https://validationcloud.io).
-10+ years building products across Web3, blockchain, and enterprise B2B SaaS.
+10+ years building products across Web3, blockchain, and enterprise B2B SaaS. 
 From early-stage startups to Zendesk. Based in London.
 
 ---
