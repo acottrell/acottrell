@@ -27,3 +27,4 @@ The craft of product leadership. How AI changes what it means to build software.
 ---
 
 [LinkedIn](https://www.linkedin.com/in/aaroncottrell/) · [acottrell.com](https://acottrell.com)
+
