@@ -1,8 +1,16 @@
 # Aaron Cottrell
 
 Head of Product at [Validation Cloud](https://validationcloud.io).
-10+ years building products across Web3, blockchain, and enterprise B2B SaaS.  
-From early-stage startups to Zendesk. Based in London.
+10+ years building products across Web3, blockchain, and enterprise B2B SaaS.
+Previously Zendesk, Elliptic, Vault Platform, PeerIndex. Based in London.
+
+---
+
+## Projects
+
+**[Tailwise](https://github.com/acottrell/tailwise)** - Wind-optimised cycling route planner.
+Ranks routes by tailwind advantage on the way home using live weather data.
+Next.js, Mapbox, Strava, Open-Meteo. [Live site](https://tailwise-cycle.vercel.app/)
 
 ---
 
