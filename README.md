@@ -10,7 +10,7 @@ Previously Zendesk, Elliptic, Vault Platform, PeerIndex. Based in London.
 
 **[Tailwise](https://github.com/acottrell/tailwise)** - Wind-optimised cycling route planner.
 Ranks routes by tailwind advantage on the way home using live weather data.
-Next.js, Mapbox, Strava, Open-Meteo. [Live site](https://tailwise-cycle.vercel.app/)
+Next.js, Mapbox, Strava, Open-Meteo. [Live site](https://tailwise.cc/)
 
 ---
 
