@@ -12,6 +12,10 @@ Previously Zendesk, Elliptic, Vault Platform, PeerIndex. Based in London.
 Ranks routes by tailwind advantage on the way home using live weather data.
 Next.js, Mapbox, Strava, Open-Meteo. [Live site](https://tailwise.cc/)
 
+**[Worth Aircon?](https://github.com/acottrell/worth-aircon)** - Is air conditioning worth it where you live?
+Analyses 10 years of overnight and daytime temperatures for any UK postcode.
+Next.js, Open-Meteo, postcodes.io. [Live site](https://www.worthaircon.com/)
+
 ---
 
 ## Contributions
